@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResturantScheduling", "ResturantScheduling\ResturantScheduling.csproj", "{2DEAC8C7-1307-4AAE-812E-E54C27C71021}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResturantScheduling", "ResturantScheduling\ResturantScheduling.csproj", "{2DEAC8C7-1307-4AAE-812E-E54C27C71021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResturantScheduling.Domain", "ResturantScheduling.Domain\ResturantScheduling.Domain.csproj", "{244D6667-4FC4-43E4-8A33-5A87D358C7F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2DEAC8C7-1307-4AAE-812E-E54C27C71021}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DEAC8C7-1307-4AAE-812E-E54C27C71021}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DEAC8C7-1307-4AAE-812E-E54C27C71021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244D6667-4FC4-43E4-8A33-5A87D358C7F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244D6667-4FC4-43E4-8A33-5A87D358C7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244D6667-4FC4-43E4-8A33-5A87D358C7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244D6667-4FC4-43E4-8A33-5A87D358C7F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
