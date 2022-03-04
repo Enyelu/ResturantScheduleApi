@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResturantScheduling", "Rest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResturantScheduling.Domain", "ResturantScheduling.Domain\ResturantScheduling.Domain.csproj", "{244D6667-4FC4-43E4-8A33-5A87D358C7F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResturantScheduling.Application", "ResturantScheduling.Application\ResturantScheduling.Application.csproj", "{DD25CB3E-9F2D-4677-B051-F8B35C10114A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{244D6667-4FC4-43E4-8A33-5A87D358C7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{244D6667-4FC4-43E4-8A33-5A87D358C7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{244D6667-4FC4-43E4-8A33-5A87D358C7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD25CB3E-9F2D-4677-B051-F8B35C10114A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD25CB3E-9F2D-4677-B051-F8B35C10114A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD25CB3E-9F2D-4677-B051-F8B35C10114A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD25CB3E-9F2D-4677-B051-F8B35C10114A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
